@@ -7,38 +7,6 @@
             "url_photo": "http://dummyimage.com/109x141.bmp/dddddd/000000",
             "url_banner": "https://adobe.com/dictumst/maecenas/ut/massa/quis/augue.png?id=congue&nisl=etiam&venenatis=justo&lacinia=etiam&aenean=pretium&sit=iaculis&amet=justo&justo=in&morbi=hac&ut=habitasse&odio=platea&cras=dictumst&mi=etiam&pede=faucibus&malesuada=cursus&in=urna&imperdiet=ut&et=tellus&commodo=nulla&vulputate=ut&justo=erat&in=id&blandit=mauris&ultrices=vulputate&enim=elementum&lorem=nullam&ipsum=varius&dolor=nulla&sit=facilisi&amet=cras&consectetuer=non&adipiscing=velit&elit=nec&proin=nisi&interdum=vulputate&mauris=nonummy&non=maecenas&ligula=tincidunt&pellentesque=lacus&ultrices=at&phasellus=velit&id=vivamus&sapien=vel&in=nulla&sapien=eget&iaculis=eros&congue=elementum&vivamus=pellentesque&metus=quisque&arcu=porta&adipiscing=volutpat&molestie=erat&hendrerit=quisque&at=erat&vulputate=eros&vitae=viverra&nisl=eget&aenean=congue&lectus=eget&pellentesque=semper&eget=rutrum&nunc=nulla&donec=nunc&quis=purus&orci=phasellus&eget=in&orci=felis",
             "type": false
-        }, 
-        {
-            "id": "5fa2f20b-d15d-4869-9028-05b05c9498b8",
-            "title": "Dillie Mearns",
-            "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-            "url_photo": "http://dummyimage.com/135x205.bmp/cc0000/ffffff",
-            "url_banner": "https://bbc.co.uk/accumsan/felis/ut/at/dolor/quis/odio.js?turpis=ante&integer=vivamus&aliquet=tortor&massa=duis&id=mattis&lobortis=egestas&convallis=metus&tortor=aenean&risus=fermentum&dapibus=donec&augue=ut&vel=mauris&accumsan=eget&tellus=massa&nisi=tempor&eu=convallis&orci=nulla&mauris=neque&lacinia=libero&sapien=convallis&quis=eget&libero=eleifend&nullam=luctus&sit=ultricies&amet=eu&turpis=nibh&elementum=quisque",
-            "type": false
-        }, 
-        {
-            "id": "1d90a6d1-1d13-4398-b773-026b0663bca0",
-            "title": "Aimee Johantges",
-            "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-            "url_photo": "http://dummyimage.com/205x154.bmp/dddddd/000000",
-            "url_banner": "http://wisc.edu/egestas.json?dolor=lectus&morbi=suspendisse&vel=potenti&lectus=in&in=eleifend&quam=quam&fringilla=a&rhoncus=odio&mauris=in&enim=hac&leo=habitasse&rhoncus=platea&sed=dictumst&vestibulum=maecenas&sit=ut&amet=massa&cursus=quis&id=augue&turpis=luctus&integer=tincidunt&aliquet=nulla&massa=mollis",
-            "type": true
-        }, 
-        {
-            "id": "86cd3d46-d9cf-46f9-8d9c-86ba060b5ca3",
-            "title": "Babbette Milburne",
-            "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-            "url_photo": "http://dummyimage.com/166x117.jpg/ff4444/ffffff",
-            "url_banner": "http://addtoany.com/neque/aenean/auctor.jsp?hac=et&habitasse=ultrices&platea=posuere&dictumst=cubilia&aliquam=curae&augue=mauris&quam=viverra&sollicitudin=diam&vitae=vitae&consectetuer=quam&eget=suspendisse&rutrum=potenti&at=nullam&lorem=porttitor&integer=lacus&tincidunt=at&ante=turpis&vel=donec&ipsum=posuere&praesent=metus&blandit=vitae&lacinia=ipsum&erat=aliquam&vestibulum=non&sed=mauris&magna=morbi&at=non&nunc=lectus&commodo=aliquam&placerat=sit",
-            "type": false
-        }, 
-        {
-            "id": "48d4bee2-777f-4374-bc42-863966b354bf",
-            "title": "Hillier Zanini",
-            "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.\n\nCurabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
-            "url_photo": "http://dummyimage.com/146x113.png/cc0000/ffffff",
-            "url_banner": "http://admin.ch/ornare.js?luctus=dui&cum=vel&sociis=nisl&natoque=duis&penatibus=ac&et=nibh&magnis=fusce&dis=lacus&parturient=purus&montes=aliquet&nascetur=at&ridiculus=feugiat&mus=non&vivamus=pretium&vestibulum=quis&sagittis=lectus&sapien=suspendisse&cum=potenti&sociis=in&natoque=eleifend&penatibus=quam&et=a&magnis=odio&dis=in&parturient=hac&montes=habitasse&nascetur=platea&ridiculus=dictumst&mus=maecenas&etiam=ut&vel=massa&augue=quis&vestibulum=augue&rutrum=luctus&rutrum=tincidunt&neque=nulla&aenean=mollis&auctor=molestie&gravida=lorem&sem=quisque&praesent=ut&id=erat&massa=curabitur&id=gravida&nisl=nisi&venenatis=at&lacinia=nibh&aenean=in&sit=hac&amet=habitasse&justo=platea&morbi=dictumst&ut=aliquam&odio=augue&cras=quam&mi=sollicitudin&pede=vitae&malesuada=consectetuer&in=eget&imperdiet=rutrum&et=at&commodo=lorem&vulputate=integer&justo=tincidunt&in=ante&blandit=vel&ultrices=ipsum&enim=praesent&lorem=blandit&ipsum=lacinia&dolor=erat&sit=vestibulum&amet=sed&consectetuer=magna&adipiscing=at&elit=nunc&proin=commodo",
-            "type": true
         }
     ]
 }
